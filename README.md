@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi there, my name is Promise Amaku
+- 👋 My name is Promise Amaku
 - 👀 I'm a Data Analyst and Data Scientist
 - 🌱 I use Python, SQL and BI Tools like Tableau and Cognos Analytics to get insights from data
 - 🌱 I’m currently learning  Machine Learning
