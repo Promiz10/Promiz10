@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 My name is Promise Amaku
-- 👀 I'm a Data Analyst and Data Scientist with a knack for turning raw data into actionable insights. I unravel complex datasets and transform them into compelling narratives that drive informed decision-making
+- 👀 I'm a Data Analyst with a knack for turning raw data into actionable insights. I unravel complex datasets and transform them into compelling narratives that drive informed decision-making
 - 🌱  Proficiency in data manipulation and analysis using Python and SQL.
 - 📊  Data visualization with tools like Matplotlib, Seaborn, Tableau, and Cognos Analytics.
 - 🌱 I’m currently learning  Machine Learning and predictive modelling
