@@ -6,5 +6,5 @@
 - 📊  Data visualization with tools like Matplotlib, Seaborn, Tableau, and Cognos Analytics.
 - 🌱 I’m currently learning  Machine Learning and predictive modelling
 - 😄 When I'm not coding, I'm watching movies, listening to music or watching documentaries on Youtube
-- 💼 I am available for Data Analyst and Data Science roles
+- 💼 I am available for Data Analyst roles
 - 📫 How to reach me: Emal: promiseamaku@gmail.com Linkedin: @Promise Amaku
